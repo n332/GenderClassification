@@ -2,17 +2,17 @@
 This project is aimed at building a CNN model to classify between two classes (male and female) given an image.
 ## Data
 - Training :47009
-  
-  ![Training](Pic/trainDist.png)
+
+![Training](Pic/trainDist.png)
   
 - Validation: 11649
   
-  ![Validation](Pic/ValDist.png)
+![Validation](Pic/ValDist.png)
   
   *Note : This set is splited to : 2,336 for testing and 9,313 for validation
 - Samples:
-  
-  ![Samples](Pic/Samples.png) 
+
+![Samples](Pic/Samples.png) 
 
 ## Training
 
@@ -45,5 +45,5 @@ This project is aimed at building a CNN model to classify between two classes (m
 - F1-score: 1.0
 - Confusion matrix:
   
-  ![Cm](Pic/Cm.png)
+![Cm](Pic/Cm.png)
   
