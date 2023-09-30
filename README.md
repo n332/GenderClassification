@@ -1,6 +1,7 @@
 # GenderClassification
 This project is aimed at building a CNN model to classify between two classes (male and female) given an image.
 ## Data
+[Dataset on kaggle]([Model/TheFinalModelGenderClassification9680.h5](https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset/))
 - Training :47009
 
 ![Training](Pic/trainDist.png)
