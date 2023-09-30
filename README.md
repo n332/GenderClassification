@@ -46,4 +46,7 @@ This project is aimed at building a CNN model to classify between two classes (m
 - Confusion matrix:
   
 ![Cm](Pic/Cm.png)
+
+## Links:
+[Model File](Model/TheFinalModelGenderClassification9680.h5)
   
