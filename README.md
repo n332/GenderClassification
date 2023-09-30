@@ -31,10 +31,16 @@ This project is aimed at building a CNN model to classify between two classes (m
 ### Model Architecture
 ![Model Architecture](Pic/Archi.png)
 
+- Tranining Acc : 0.0904
+- Training loss : 0.9680
+- Validation Acc : 0.0802
+- Validation loss : 0.9695
+
 ### Compilation Parameters
 - Adam : initial_lr = 0.0001, Drop = 0.1, Every 10 epochs
-- loss = Categorical Cross Entropy
-- metric = 'Accuracy'
+- loss : Categorical Cross Entropy
+- metric : 'Accuracy'
+- epochs : 19
 
 ### Training and Validation Matrices
 ![Training and Validation Matrices](Pic/download.png)
