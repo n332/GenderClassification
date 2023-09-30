@@ -1,5 +1,13 @@
 # GenderClassification
+This project is aimed at building a CNN model to classify between two classes (male and female) given an image.
 ## Data
+- Training :47009
+  ![Training](Pic/trainDist.png)
+- Validation: 11649
+  ![Validation](Pic/ValDist.png)
+  *Note : This set is splited to : 2,336 for testing and 9,313 for validation
+- Samples:
+  ![Samples](Pic/Samples.png) 
 
 ## Training
 
@@ -26,3 +34,10 @@
 ![Training and Validation Matrices](Pic/download.png)
 
 ## results
+- Accuracy: 1.0
+- Precision: 1.0
+- Recall: 1.0
+- F1-score: 1.0
+- Confusion matrix:
+  ![Cm](Pic/Cm.png)
+  
