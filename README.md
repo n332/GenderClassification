@@ -57,6 +57,8 @@ This project is aimed at building a CNN model to classify between two classes (m
 
 ## Links:
 [Model File](Model/TheFinalModelGenderClassification9680.h5)
+
 [Simple Flask Web App](App)
+
 [Demo](https://drive.google.com/file/d/1zOo7D97CnysHc5TCuo03xhSi8YhYhey8/view?usp=sharing)
   
