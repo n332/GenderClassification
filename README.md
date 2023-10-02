@@ -1,7 +1,7 @@
 # GenderClassification
 The objective of this project is to develop a Convolutional Neural Network (CNN) model that can accurately classify images into two categories: male and female. To prepare the images for classification, OpenCV (CV2) is utilized to crop faces from the images. The classification process is based on a simple CNN algorithm
 
-## methodology
+## Methodology
 To prepare the images for classification, OpenCV (CV2) is utilized to crop faces from the images.
 The classification process is based on a simple CNN algorithm
 
