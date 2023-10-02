@@ -49,7 +49,7 @@ The classification process is based on a simple CNN algorithm
 - epochs : 19
 
 ### Training and Validation Matrices
-![Training and Validation Matrices](Pic/download.png)
+![Training and Validation Matrices](Pic/res.png)
 
 - Tranining Acc : 0.0904
 - Training loss : 0.9680
