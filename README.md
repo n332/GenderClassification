@@ -7,7 +7,8 @@ The classification process is based on a simple CNN algorithm
 
 ![FaceDetected](Pic/face_Detected.png)
 
-![(Pic/1.png)](Pic/download.png)
+
+![Pic](Pic/download.png)
 
 ## Data
 [Dataset on kaggle]([Model/TheFinalModelGenderClassification9680.h5](https://www.kaggle.com/datasets/cashutosh/gender-classification-dataset/))
