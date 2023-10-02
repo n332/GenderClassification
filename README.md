@@ -51,10 +51,10 @@ The classification process is based on a simple CNN algorithm
 ### Training and Validation Matrices
 ![Training and Validation Matrices](Pic/res.png)
 
-- Tranining Acc : 0.0904
-- Training loss : 0.9680
-- Validation Acc : 0.0802
-- Validation loss : 0.9695
+- Tranining loss : 0.0904
+- Training Acc : 0.9680
+- Validation loss : 0.0802
+- Validation lAcc : 0.9695
 
 ## results
 - Accuracy: 1.0
